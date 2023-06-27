@@ -3,7 +3,7 @@
 
 ## Library
 
-you could install in Python using `pip` command
+you could install it in Python using the `pip` command
 
 ### speech_recognition
 `pip install SpeechRecognition`
@@ -33,4 +33,4 @@ the code consists of:
 ## Future Update
 
 - Create speech command for controlling IOT (ESP32) by connecting it to HTTP protocol or MQTT protocol
-- Coroporated with AI to create basic conversation
+- Implement with AI to create basic conversation
